@@ -14,6 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <file leaf-file-name="Notebook.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Notebook.js">
@@ -26,17 +27,32 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+=======
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+>>>>>>> Publish website
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Notebook.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Notebook.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
 >>>>>>> Stashed changes
+=======
+      <file leaf-file-name="Tags.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tags.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="145" column="98" lean-forward="false" selection-start-line="145" selection-start-column="98" selection-end-line="145" selection-end-column="98" />
+>>>>>>> Publish website
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -44,6 +60,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,6 +76,14 @@
                 <marker date="1512604573000" expanded="true" signature="446:473" ph="&lt;main/&gt;" />
               </folding>
 >>>>>>> Stashed changes
+=======
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="132" lean-forward="false" selection-start-line="13" selection-start-column="132" selection-end-line="13" selection-end-column="132" />
+              <folding />
+>>>>>>> Publish website
             </state>
           </provider>
         </entry>
@@ -66,6 +91,7 @@
       <file leaf-file-name="Intro.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Intro.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="255">
 <<<<<<< Updated upstream
               <caret line="235" column="100" lean-forward="false" selection-start-line="235" selection-start-column="100" selection-end-line="235" selection-end-column="100" />
@@ -79,11 +105,18 @@
                 <marker date="1512604573000" expanded="true" signature="4404:10290" ph="&lt;div/&gt;" />
                 <marker date="1512604573000" expanded="true" signature="8108:8911" ph="&lt;div/&gt;" />
                 <marker date="1512604573000" expanded="true" signature="10039:10277" ph="&lt;div/&gt;" />
+=======
+            <state relative-caret-position="599">
+              <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+>>>>>>> Publish website
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <file leaf-file-name="References.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/References.js">
@@ -112,10 +145,21 @@
             <state relative-caret-position="153">
               <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding />
+=======
+      <file leaf-file-name="Transcripts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Transcripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+>>>>>>> Publish website
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="App.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,11 +172,19 @@
             <state relative-caret-position="357">
               <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
 >>>>>>> Stashed changes
+=======
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+>>>>>>> Publish website
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <file leaf-file-name="Items.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Items.js">
@@ -146,11 +198,19 @@
             <state relative-caret-position="34">
               <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
 >>>>>>> Stashed changes
+=======
+      <file leaf-file-name="Transcripts.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Transcripts.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+>>>>>>> Publish website
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
@@ -181,12 +241,26 @@
 >>>>>>> Stashed changes
               </folding>
             </state>
+=======
+      <file leaf-file-name="technology_network.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/img/technology_network.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="science_network.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/img/science_network.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+>>>>>>> Publish website
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Tags.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tags.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="391">
 <<<<<<< Updated upstream
               <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
@@ -197,6 +271,11 @@
                 <marker date="1512604573000" expanded="true" signature="255:259" ph="{...}" />
               </folding>
 >>>>>>> Stashed changes
+=======
+            <state relative-caret-position="578">
+              <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding />
+>>>>>>> Publish website
             </state>
           </provider>
         </entry>
@@ -231,7 +310,10 @@
       <find>div</find>
       <find>rt-tr-group</find>
       <find>PieChart</find>
+<<<<<<< HEAD
       <find>sentimentIm</find>
+=======
+>>>>>>> Publish website
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -255,11 +337,17 @@
         <option value="$PROJECT_DIR$/src/scripts/App.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/Content.css" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/Notebook.js" />
+        <option value="$PROJECT_DIR$/src/Header.js" />
+>>>>>>> Publish website
         <option value="$PROJECT_DIR$/src/Content.js" />
         <option value="$PROJECT_DIR$/node_modules/recharts/src/cartesian/CartesianAxis.js" />
         <option value="$PROJECT_DIR$/node_modules/recharts/src/cartesian/XAxis.js" />
         <option value="$PROJECT_DIR$/src/Header.css" />
         <option value="$PROJECT_DIR$/node_modules/react-table/react-table.css" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/Transcripts.css" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/index.html" />
@@ -275,6 +363,18 @@
         <option value="$PROJECT_DIR$/src/Tags.css" />
         <option value="$PROJECT_DIR$/src/Intro.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
+=======
+        <option value="$PROJECT_DIR$/src/Intro.js" />
+        <option value="$PROJECT_DIR$/src/Main.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/Transcripts.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/Tags.js" />
+        <option value="$PROJECT_DIR$/src/Tags.css" />
+        <option value="$PROJECT_DIR$/src/Transcripts.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+>>>>>>> Publish website
       </list>
     </option>
   </component>
@@ -378,13 +478,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="settings.github" />
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+>>>>>>> Publish website
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+<<<<<<< HEAD
     <property name="SearchEverywhereHistoryKey" value=".img&#9;null&#9;null&#10;sentimentIm&#9;null&#9;null" />
+=======
+>>>>>>> Publish website
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -429,16 +536,24 @@
       <workItem from="1512242928647" duration="3173000" />
       <workItem from="1512288695866" duration="20472000" />
       <workItem from="1512379769985" duration="903000" />
+<<<<<<< HEAD
       <workItem from="1512486255727" duration="13229000" />
+=======
+      <workItem from="1512486255727" duration="5749000" />
+>>>>>>> Publish website
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="50739000" />
 =======
     <option name="totallyTimeSpent" value="43613000" />
 >>>>>>> Stashed changes
+=======
+    <option name="totallyTimeSpent" value="43259000" />
+>>>>>>> Publish website
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -446,8 +561,12 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+>>>>>>> Publish website
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -456,6 +575,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -475,6 +595,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> Publish website
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,8 +618,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Publish website
     <entry file="file://$PROJECT_DIR$/src/Transcripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -512,11 +643,14 @@
           <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+<<<<<<< HEAD
             <marker date="1512604573000" expanded="true" signature="3692:10314" ph="&lt;div/&gt;" />
             <marker date="1512604573000" expanded="true" signature="4203:10305" ph="&lt;Element/&gt;" />
             <marker date="1512604573000" expanded="true" signature="4404:10290" ph="&lt;div/&gt;" />
             <marker date="1512604573000" expanded="true" signature="8108:8911" ph="&lt;div/&gt;" />
             <marker date="1512604573000" expanded="true" signature="10039:10277" ph="&lt;div/&gt;" />
+=======
+>>>>>>> Publish website
           </folding>
         </state>
       </provider>
@@ -525,6 +659,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> Publish website
         </state>
       </provider>
     </entry>
@@ -558,7 +696,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="58" lean-forward="false" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+>>>>>>> Publish website
         </state>
       </provider>
     </entry>
@@ -570,18 +714,25 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> Publish website
     <entry file="file://$PROJECT_DIR$/src/Main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#0#25#0" expanded="true" />
 <<<<<<< Updated upstream
 =======
             <marker date="1512604573000" expanded="true" signature="446:463" ph="&lt;Switch/&gt;" />
             <marker date="1512604573000" expanded="true" signature="446:473" ph="&lt;main/&gt;" />
 >>>>>>> Stashed changes
+=======
+            <element signature="e#0#25#0" expanded="false" />
+>>>>>>> Publish website
           </folding>
         </state>
       </provider>
@@ -604,6 +755,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> Publish website
         </state>
       </provider>
     </entry>
@@ -620,7 +775,11 @@
         <state relative-caret-position="68">
           <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#0#26#0" expanded="true" />
+=======
+            <element signature="e#0#26#0" expanded="false" />
+>>>>>>> Publish website
           </folding>
         </state>
       </provider>
@@ -639,11 +798,14 @@
           <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+<<<<<<< HEAD
             <marker date="1512604573000" expanded="true" signature="3692:10314" ph="&lt;div/&gt;" />
             <marker date="1512604573000" expanded="true" signature="4203:10305" ph="&lt;Element/&gt;" />
             <marker date="1512604573000" expanded="true" signature="4404:10290" ph="&lt;div/&gt;" />
             <marker date="1512604573000" expanded="true" signature="8108:8911" ph="&lt;div/&gt;" />
             <marker date="1512604573000" expanded="true" signature="10039:10277" ph="&lt;div/&gt;" />
+=======
+>>>>>>> Publish website
           </folding>
         </state>
       </provider>
@@ -704,6 +866,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
     <entry file="file://$PROJECT_DIR$/src/Notebook.js">
@@ -717,6 +880,15 @@
       </provider>
     </entry>
 >>>>>>> Stashed changes
+=======
+    <entry file="file://$PROJECT_DIR$/src/Notebook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Publish website
     <entry file="file://$PROJECT_DIR$/node_modules/recharts/src/cartesian/CartesianAxis.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -747,6 +919,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3266" lean-forward="false" selection-start-line="0" selection-start-column="3266" selection-end-line="0" selection-end-column="3266" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> Publish website
         </state>
       </provider>
     </entry>
@@ -765,6 +941,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Content.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -796,10 +973,32 @@
         <state relative-caret-position="1241">
           <caret line="73" column="1" lean-forward="false" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
 >>>>>>> Stashed changes
+=======
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="48" selection-end-column="1" />
+>>>>>>> Publish website
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/index.js">
 <<<<<<< Updated upstream
       <provider selected="true" editor-type-id="text-editor">
@@ -807,10 +1006,19 @@
           <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+>>>>>>> Publish website
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/App.test.js">
 =======
 >>>>>>> Stashed changes
@@ -844,15 +1052,43 @@
             <marker date="1512604573000" expanded="true" signature="446:463" ph="&lt;Switch/&gt;" />
             <marker date="1512604573000" expanded="true" signature="446:473" ph="&lt;main/&gt;" />
 >>>>>>> Stashed changes
+=======
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/sentiment0.png">
+    <entry file="file://$PROJECT_DIR$/src/img/society_network.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+>>>>>>> Publish website
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/img/sentiment0.png">
+=======
+    <entry file="file://$PROJECT_DIR$/src/img/science_network.png">
+>>>>>>> Publish website
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/img/sentiment1.png">
       <provider selected="true" editor-type-id="images">
@@ -868,6 +1104,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/img/2svd_and_mean.png">
+=======
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/technology_network.png">
+>>>>>>> Publish website
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -875,11 +1122,16 @@
     <entry file="file://$PROJECT_DIR$/src/Transcripts.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< HEAD
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+=======
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+>>>>>>> Publish website
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Header.js">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
@@ -896,10 +1148,19 @@
             <marker date="1512604573000" expanded="true" signature="4404:10290" ph="&lt;div/&gt;" />
             <marker date="1512604573000" expanded="true" signature="8108:8911" ph="&lt;div/&gt;" />
             <marker date="1512604573000" expanded="true" signature="10039:10277" ph="&lt;div/&gt;" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Intro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+>>>>>>> Publish website
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -956,10 +1217,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="0" column="686711" lean-forward="false" selection-start-line="0" selection-start-column="686711" selection-end-line="0" selection-end-column="686711" />
+=======
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="132" lean-forward="false" selection-start-line="13" selection-start-column="132" selection-end-line="13" selection-end-column="132" />
+>>>>>>> Publish website
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Notebook.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -982,18 +1250,32 @@
             <element signature="e#0#26#0" expanded="true" />
             <marker date="1512604573000" expanded="true" signature="1219:1231" ph="&lt;div/&gt;" />
             <marker date="1512604573000" expanded="true" signature="1219:1240" ph="&lt;div/&gt;" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Tags.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="145" column="98" lean-forward="false" selection-start-line="145" selection-start-column="98" selection-end-line="145" selection-end-column="98" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+>>>>>>> Publish website
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tags.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="391">
           <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+=======
+        <state relative-caret-position="578">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+>>>>>>> Publish website
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Items.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1006,12 +1288,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="235" column="100" lean-forward="false" selection-start-line="235" selection-start-column="100" selection-end-line="235" selection-end-column="100" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Transcripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+>>>>>>> Publish website
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
@@ -1029,6 +1318,12 @@
         <state relative-caret-position="272">
           <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
 >>>>>>> Stashed changes
+=======
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+>>>>>>> Publish website
           <folding />
         </state>
       </provider>

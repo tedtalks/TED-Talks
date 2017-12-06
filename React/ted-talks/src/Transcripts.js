@@ -29,7 +29,7 @@ const settings = {
   dotsClass: "slick-dots slick-thumb",
   // nextArrow: <SampleNextArrow className="nextArrow" />,
   // prevArrow: <SamplePrevArrow className="prevArrow" />
-};
+}
 
 const Transcripts = () =>
   <div className="transcriptsContent">

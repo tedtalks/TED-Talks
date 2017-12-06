@@ -15,6 +15,6 @@ const Main = () =>
       <Route path='/notebook' component={Notebook}/>
       <Route path='/references' component={References}/>
     </Switch>
-  </main>;
+  </main>
 
 export default Main;
