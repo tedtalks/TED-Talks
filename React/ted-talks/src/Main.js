@@ -4,6 +4,7 @@ import Intro from './Intro'
 import Tags from './Tags'
 import Transcripts from './Transcripts'
 import Notebook from './Notebook'
+import References from './References'
 
 const Main = () =>
   <main>
@@ -12,6 +13,7 @@ const Main = () =>
       <Route path='/tags' component={Tags}/>
       <Route path='/transcripts' component={Transcripts}/>
       <Route path='/notebook' component={Notebook}/>
+      <Route path='/references' component={References}/>
     </Switch>
   </main>;
 

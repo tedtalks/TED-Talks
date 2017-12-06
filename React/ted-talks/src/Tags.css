@@ -21,6 +21,7 @@
 }
 
 .img {
+  display: block;
   margin: auto;
   width: 85%;
 }
@@ -31,6 +32,11 @@
 }
 
 .sentimentImg {
+  display: block;
   margin: auto;
   width: 60%;
+}
+
+.arrow:before {
+  background: black;
 }

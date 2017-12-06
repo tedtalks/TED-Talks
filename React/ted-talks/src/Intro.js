@@ -228,12 +228,12 @@ const Intro = withRouter(({ history }) =>
         <div className="space" />
         <div className="topic">Relationship between time and number of tags</div>
         <div>There is a clear pattern between the time when a TED Talk was published and the number of tags.</div>
-        <img src={timeVsViews} width={800} height={500} alt=""/>
+        <img src={timeVsViews} width={800} height={500} alt="" className="timeVsViewsImg"/>
         <div>We can now confirm that in recent years, the number of tags per video has clearly increased.</div>
         <div className="space" />
         <div className="space" />
         <div className="topic">Tags and popularity over time</div>
-        <img src={tagsAndPopularity} width={1200} height={650} alt=""/>
+        <img src={tagsAndPopularity} width={1200} height={650} alt="" className="timeVsPopularityImg" />
         <div>
           It's interesting to see how the top tags per each year changed over time.
           We see that there are only four top tags over the last ten years, which in and of itself speaks volumes about our

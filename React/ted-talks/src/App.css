@@ -72,3 +72,24 @@
 tspan {
   font-size: 12px;
 }
+
+.refList {
+  width: 100%;
+  text-align: center;
+}
+
+.headline {
+  font-weight: 100;
+}
+
+.timeVsViewsImg {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+.timeVsPopularityImg {
+  display: block;
+  margin: auto;
+  width: 90%;
+}

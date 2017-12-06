@@ -44,13 +44,40 @@ const columns = [
   }
 ];
 
+
+function SampleNextArrow(props) {
+  const {className, style, onClick} = props;
+  return (
+    <div
+      className={className}
+      style={{...style, display: 'block', background: 'red', left: '5'}}
+      onClick={onClick}
+    ></div>
+  );
+}
+
+function SamplePrevArrow(props) {
+  const {className, style, onClick} = props;
+  return (
+    <div
+      className={className}
+      style={{...style, display: 'block', background: 'green', right: '5'}}
+      onClick={onClick}
+    ></div>
+  );
+}
+
+
 const settings = {
+  arrows: true,
   infinite: true,
   speed: 500,
   slidesToShow: 1,
   slidesToScroll: 1,
   dots: true,
-  dotsClass: "slick-dots slick-thumb"
+  dotsClass: "slick-dots slick-thumb",
+  // nextArrow: <SampleNextArrow className="nextArrow" />,
+  // prevArrow: <SamplePrevArrow className="prevArrow" />
 };
 
 const Tags = () =>

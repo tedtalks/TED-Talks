@@ -14,6 +14,7 @@ const Header = withRouter(({ history }) =>
       <li className="item"><Link to='/tags'>Tags</Link></li>
       <li className="item"><Link to='/transcripts'>Transcripts</Link></li>
       <li className="item"><Link to='/notebook'>Notebook</Link></li>
+      <li className="item"><Link to='/references'>References</Link></li>
     </ul>
   </div>);
 
