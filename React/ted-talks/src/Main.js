@@ -4,14 +4,16 @@ import Intro from './Intro'
 import Tags from './Tags'
 import Transcripts from './Transcripts'
 import Notebook from './Notebook'
+import References from './References'
 
 const Main = () =>
   <main>
     <Switch>
-      <Route exact path='/' component={Intro}/>
-      <Route path='/tags' component={Tags}/>
-      <Route path='/transcripts' component={Transcripts}/>
-      <Route path='/notebook' component={Notebook}/>
+      <Route exact path={`${process.env.PUBLIC_URL}/`} component={Intro}/>
+      <Route path={`${process.env.PUBLIC_URL}/tags`} component={Tags}/>
+      <Route path={`${process.env.PUBLIC_URL}/transcripts`} component={Transcripts}/>
+      <Route path={`${process.env.PUBLIC_URL}/notebook`} component={Notebook}/>
+      <Route path={`${process.env.PUBLIC_URL}/references`} component={References}/>
     </Switch>
   </main>;
 

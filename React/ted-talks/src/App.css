@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@font-face {
+  font-family: 'Open Sans Light';
+  font-style: normal;
+  font-weight: 300;
+  src:url(https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTRa1RVmPjeKy21_GQJaLlJI.woff) format('woff');
+}
+
 * {
-  font-family: 'Avenir Next' !important;
+  font-family: 'Avenir Next', 'Open Sans', sans-serif;
 }
 
 .text {
@@ -64,6 +73,7 @@
 }
 
 .topic {
+  font-family: 'Avenir Next', 'Open Sans Light', sans-serif;
   font-size: 25px;
   font-weight: 200;
   margin: 10px 0;
@@ -71,4 +81,50 @@
 
 tspan {
   font-size: 12px;
+}
+
+.refList {
+  width: 100%;
+  text-align: center;
+}
+
+.headline {
+  font-family: 'Avenir Next', 'Open Sans Light', sans-serif;
+  font-weight: 100;
+}
+
+.timeVsViewsImg {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+  height: auto;
+}
+
+.timeVsPopularityImg {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+  height: auto;
+}
+
+.logo {
+  max-width: 20%;
+  height: auto;
+  margin: 0 50px;
+}
+
+.logoList {
+  display: inline-block;
+}
+
+@media(max-width: 1100px) {
+  .logoList {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.a, .a:visited {
+  color: rgb(230, 43, 30);
+  text-decoration: none;
 }
