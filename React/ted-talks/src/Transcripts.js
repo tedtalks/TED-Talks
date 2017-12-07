@@ -36,8 +36,9 @@ const Transcripts = () =>
     <div className="title">Transcript analysis</div>
     <div className="space"/>
     <div className="tagText">
-      <div className="smallTitle">Cleaning the data</div>
-      <div>After creating a better representation of all the transcripts we got 88 talks without a legitimate transcript and over 2000 with transcripts.</div>
+      <div className="smallTitle">Data Validity</div>
+      <div>Upon inspection, it turned out 88 of the talks did not have transcripts. Since this was a small fraction of the data, we ignored
+        that data and proceeded</div>
       <div>In order to make this more valid, we're going to exclude all talks with less than 1000 words, so that the analysis
         we conduct will have more validity. This brings us down to 2022 talks, with new statistics.</div>
       <PieChart width={1200} height={400}>
@@ -49,7 +50,12 @@ const Transcripts = () =>
         <Tooltip/>
       </PieChart>
       <div className="space"/>
-      <div className="smallTitle">Analyzing a few transcripts</div>
+      <div className="smallTitle">The Shape of a Talk</div>
+      <div> 
+        Talks can be of any shape and size. Their shape also changes based on how many words we consider at a time. To choose the best number of words, 
+          we selected a few random talks to determine the optimal number of words, based on a subjective measurement of shape: 
+          a balance between "smooth" and data preservation. 
+      </div>
       <div className="space"/>
       <Slider {...settings}>
         <div className="centeredTitle">
@@ -66,9 +72,12 @@ const Transcripts = () =>
         </div>
       </Slider>
       <div className="space"/><div className="space"/>
-      <img src={svdAndMean} width={1000} height={600} className="img" alt="" />
+      <div> 
+        Once we selected the number of words, we used Singular Vector Decomposition to find out what shapes were underlying the profiles.
+        The five main shapes are shown below 
+      <img src={5vec_decomp} width={1000} height={600} className="img" alt="" />
       <div className="space"/>
-      <div>Let's inspect these one by one.</div>
+      <div>Of these, the vectors beyond 3 seem to be purely sinsoidal. We'll take an individual look at the other ones.</div>
       <div className="space"/>
       <div>The first line contains the overall, major plotline of a TED talk: </div>
       <div className="space"/>
@@ -87,11 +96,12 @@ const Transcripts = () =>
       <div className="space"/>
       <img src={svd2} width={1000} height={600} className="img" alt="" />
       <div className="space"/>
-      <div>The rest devolve into sine waves, which is a replication of [1].
-        They also discovered this in their singular values. </div>
       <div className="space"/>
       <div className="smallTitle">Profiles of popular talks</div>
       <div className="topic">10 most popular talks</div>
+        Back to the eternal question: What makes a ted talk great? 
+        To get an idea, we took the average profile of the top ten talks, shown in the dark blue line. The light blue shading shows the first
+        standard deviation of the mean, and the light red lines in the background show the individual talks. 
       <div className="space"/>
       <img src={top10profiles} width={1000} height={600} className="img" alt="" />
     </div>
